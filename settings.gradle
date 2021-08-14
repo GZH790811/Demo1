@@ -1,0 +1,4 @@
+rootProject.name = "Demo1"
+include ':app'
+include ':notificationtest'
+include ':cameraalbumtest'
